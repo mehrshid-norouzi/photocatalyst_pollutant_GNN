@@ -1,0 +1,14 @@
+torch
+torch-geometric
+numpy
+pandas
+scikit-learn
+scipy
+matplotlib
+seaborn
+plotly
+rdkit
+pymatgen
+deepchem
+umap-learn
+openpyxl
